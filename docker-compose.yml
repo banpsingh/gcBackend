@@ -1,0 +1,6 @@
+version: '3'
+services:
+    gc:
+        image: gc
+        ports:
+            - "5000:5000"
