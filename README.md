@@ -1,7 +1,6 @@
 # AppDev Final Project SP2020: Group Chat Backend
 
 This app is a group chat messaging app. You can make group chats and users can join multiple group chats and send messages to the chat.
-The public server IP address for this app is: http://35.190.171.142/
 
 # Expected Functionality
 ## Get all group chats
