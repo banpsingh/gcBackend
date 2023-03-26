@@ -16,7 +16,7 @@ Response
     "data": [
         {
             "id": 1,
-            "name": "rubber emulsifyeet",
+            "name": "Alice Bob",
             "messages": [<SERIALIZED MESSAGE>],
             "users": [<SERIALIZED USERS WITHOUT GROUP CHAT USERS>]
         },
